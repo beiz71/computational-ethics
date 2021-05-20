@@ -1,2 +1,2 @@
-# computational-ethics
+# 11831 Computational Ethics Lab
 This repo contains code and dataset for our project Identifying Subtle Attributes via Influence Tracing Method
